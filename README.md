@@ -39,8 +39,8 @@ in modern AI systems.
   ## 🧠 Interests
 - **LLMs & Transformers**: attention mechanisms, scaling behavior, evaluation
 - **Convex Optimization**
-- **RAG**
-- **Quant**
+- **RAG system**
+- **Quant finance**
 
 ---
 
