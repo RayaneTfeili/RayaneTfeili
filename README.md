@@ -26,20 +26,27 @@ in modern AI systems.
 
 ## 🔭 What I’m working on now
 - 🧠 Convexification of attention / LLMs (thesis)
-- 🧩 RAG project: retrieval, reranking, evaluation, deployment-friendly pipelines
+- 🧩 RAG project: 
 - 💹 Quant finance project: research/backtesting mindset + risk-aware metrics
-- 🦀 Learning Rust (systems thinking, performance, safety)
+- 🦀 Learning Rust 
+---
+
+## 🛠️ Tools
+- **Languages**: Python · R · SQL · Rust  
+- **Libraries / Frameworks**: PyTorch · scikit-learn · PySpark · Dask  
+- **DevOps / Containerization**: Docker
+
+  ## 🧠 Interests
+- **LLMs & Transformers**: attention mechanisms, scaling behavior, evaluation
+- **Convex Optimization**
+- **RAG**
+- **Quant**
 
 ---
 
-## 🧠 Convex optimization view of attention (conceptual)
-```mermaid
-flowchart LR
-  X[Inputs / tokens] --> E[Embeddings]
-  E --> P[Positional encoding]
-  P --> QKV[Q, K, V projections]
-  QKV --> A[Attention: reformulated / convexified]
-  A --> M[Mixing / aggregation]
-  M --> FFN[Feed-forward block]
-  FFN --> Y[Outputs]
-  A -.->|analysis| O[Optimization view\n(convex constraints / relaxations)]
+## 🤝 Links
+- GitHub: <b>@RayaneTfeili</b>
+- LinkedIn: (https://www.linkedin.com/in/rayane-tfeili-539772246/?skipRedirect=true)
+- Email: rayantfeili@gmail.com
+
+---
