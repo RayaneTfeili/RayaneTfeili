@@ -31,12 +31,12 @@ in modern AI systems.
 - 🦀 Learning Rust 
 ---
 
-## 🛠️ Tools
+##  Tools
 - **Languages**: Python · R · SQL · Rust  
 - **Libraries / Frameworks**: PyTorch · scikit-learn · PySpark · Dask  
 - **DevOps / Containerization**: Docker
 
-  ## 🧠 Interests
+  ##  Interests
 - **LLMs & Transformers**: attention mechanisms, scaling behavior, evaluation
 - **Convex Optimization**
 - **RAG system**
@@ -44,8 +44,7 @@ in modern AI systems.
 
 ---
 
-## 🤝 Links
-- GitHub: <b>@RayaneTfeili</b>
+##  Links
 - LinkedIn: (https://www.linkedin.com/in/rayane-tfeili-539772246/?skipRedirect=true)
 - Email: rayantfeili@gmail.com
 
